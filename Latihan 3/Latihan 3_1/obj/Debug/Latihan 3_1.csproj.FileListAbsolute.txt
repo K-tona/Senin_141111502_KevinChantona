@@ -1,0 +1,10 @@
+C:\Users\kevin\OneDrive\Documents\Sementara\Latihan 3\Latihan 3_1\bin\Debug\Latihan 3_1.exe.config
+C:\Users\kevin\OneDrive\Documents\Sementara\Latihan 3\Latihan 3_1\bin\Debug\Latihan 3_1.exe
+C:\Users\kevin\OneDrive\Documents\Sementara\Latihan 3\Latihan 3_1\bin\Debug\Latihan 3_1.pdb
+C:\Users\kevin\OneDrive\Documents\Sementara\Latihan 3\Latihan 3_1\obj\Debug\Latihan 3_1.csprojResolveAssemblyReference.cache
+C:\Users\kevin\OneDrive\Documents\Sementara\Latihan 3\Latihan 3_1\obj\Debug\Latihan_3_1.Form1.resources
+C:\Users\kevin\OneDrive\Documents\Sementara\Latihan 3\Latihan 3_1\obj\Debug\Latihan_3_1.Properties.Resources.resources
+C:\Users\kevin\OneDrive\Documents\Sementara\Latihan 3\Latihan 3_1\obj\Debug\Latihan 3_1.csproj.GenerateResource.Cache
+C:\Users\kevin\OneDrive\Documents\Sementara\Latihan 3\Latihan 3_1\obj\Debug\Latihan 3_1.exe
+C:\Users\kevin\OneDrive\Documents\Sementara\Latihan 3\Latihan 3_1\obj\Debug\Latihan 3_1.pdb
+C:\Users\kevin\OneDrive\Documents\Sementara\Latihan 3\Latihan 3_1\obj\Debug\Latihan_3_1.About.resources
