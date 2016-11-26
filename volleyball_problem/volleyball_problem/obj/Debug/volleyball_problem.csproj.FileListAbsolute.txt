@@ -1,0 +1,6 @@
+C:\Users\kevin\Documents\Sementara\volleyball_problem\volleyball_problem\bin\Debug\volleyball_problem.exe.config
+C:\Users\kevin\Documents\Sementara\volleyball_problem\volleyball_problem\bin\Debug\volleyball_problem.exe
+C:\Users\kevin\Documents\Sementara\volleyball_problem\volleyball_problem\bin\Debug\volleyball_problem.pdb
+C:\Users\kevin\Documents\Sementara\volleyball_problem\volleyball_problem\obj\Debug\volleyball_problem.csprojResolveAssemblyReference.cache
+C:\Users\kevin\Documents\Sementara\volleyball_problem\volleyball_problem\obj\Debug\volleyball_problem.exe
+C:\Users\kevin\Documents\Sementara\volleyball_problem\volleyball_problem\obj\Debug\volleyball_problem.pdb
