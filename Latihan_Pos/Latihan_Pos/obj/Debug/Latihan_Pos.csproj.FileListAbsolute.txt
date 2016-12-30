@@ -1,0 +1,14 @@
+C:\Users\kevin\Documents\Sementara\Latihan_Pos\Latihan_Pos\bin\Debug\Latihan_Pos.exe.config
+C:\Users\kevin\Documents\Sementara\Latihan_Pos\Latihan_Pos\bin\Debug\Latihan_Pos.exe
+C:\Users\kevin\Documents\Sementara\Latihan_Pos\Latihan_Pos\bin\Debug\Latihan_Pos.pdb
+C:\Users\kevin\Documents\Sementara\Latihan_Pos\Latihan_Pos\bin\Debug\MySql.Data.dll
+C:\Users\kevin\Documents\Sementara\Latihan_Pos\Latihan_Pos\obj\Debug\Latihan_Pos.csprojResolveAssemblyReference.cache
+C:\Users\kevin\Documents\Sementara\Latihan_Pos\Latihan_Pos\obj\Debug\Latihan_Pos.Modify_Barang.resources
+C:\Users\kevin\Documents\Sementara\Latihan_Pos\Latihan_Pos\obj\Debug\Latihan_Pos.Properties.Resources.resources
+C:\Users\kevin\Documents\Sementara\Latihan_Pos\Latihan_Pos\obj\Debug\Latihan_Pos.csproj.GenerateResource.Cache
+C:\Users\kevin\Documents\Sementara\Latihan_Pos\Latihan_Pos\obj\Debug\Latihan_Pos.exe
+C:\Users\kevin\Documents\Sementara\Latihan_Pos\Latihan_Pos\obj\Debug\Latihan_Pos.pdb
+C:\Users\kevin\Documents\Sementara\Latihan_Pos\Latihan_Pos\obj\Debug\Latihan_Pos.Form1.resources
+C:\Users\kevin\Documents\Sementara\Latihan_Pos\Latihan_Pos\obj\Debug\Latihan_Pos.Modify_Staff.resources
+C:\Users\kevin\Documents\Sementara\Latihan_Pos\Latihan_Pos\obj\Debug\Latihan_Pos.Modify_Supplier.resources
+C:\Users\kevin\Documents\Sementara\Latihan_Pos\Latihan_Pos\obj\Debug\Latihan_Pos.Transaction_Manager.resources
